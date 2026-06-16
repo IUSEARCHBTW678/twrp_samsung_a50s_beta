@@ -24,7 +24,7 @@ THE OFFICIAL TWRP FILES CREATED BY TEAMWIN
 7. Go to **Reboot** -> **Recovery** to enjoy the new version!
 
 ## ⚠️ WARNING ⚠️
-⚠️ THE TWRP IS NON-TESTED ,DON'T FLASH IN YOUR DEVICE IF YOU NOT A DEVELOPER ⚠️
+⚠️ THE TWRP IS UNTESTED ,DON'T FLASH IN YOUR DEVICE IF YOU NOT A DEVELOPER ⚠️
 
 ## RELEASE
 https://github.com/IUSEARCHBTW678/twrp_samsung_a50s_beta/tags
