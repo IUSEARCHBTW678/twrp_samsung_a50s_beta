@@ -1,0 +1,2 @@
+# twrp_samsung_a50s_beta
+CUSTOM TWRP 3.7.1 FOR GALAXY A50S (SM-A507FN)
