@@ -2,7 +2,7 @@
 CUSTOM TWRP 3.7.1 FOR GALAXY A50S (SM-A507FN)
 THE OFFICIAL TWRP FILES CREATED BY TEAMWIN
 
-👋🏻 WELLCOME TO MY TWRP UNOFFICIAL PROJECT
+👋🏻 WELCOME TO MY TWRP UNOFFICIAL PROJECT
 ## ✨ Features & Optimizations 
 - **High Compression:** Size is strictly controlled at exactly **48MB** (using LZMA ramdisk compression) to guarantee partition safety on Galaxy A50s (SM-A507FN).
 - **MTP Supported:** Fixed USB init syntax. File transfer to PC works out-of-the-box.
@@ -24,7 +24,7 @@ THE OFFICIAL TWRP FILES CREATED BY TEAMWIN
 7. Go to **Reboot** -> **Recovery** to enjoy the new version!
 
 ## ⚠️ WARNING ⚠️
-⚠️ THE TWRP IS NON-TESTED ,DON'T FLASH IN YOUR DEVICE IF YOU NOT A DEVELOPMENT ⚠️
+⚠️ THE TWRP IS NON-TESTED ,DON'T FLASH IN YOUR DEVICE IF YOU NOT A DEVELOPER ⚠️
 
 ## RELEASE
 https://github.com/IUSEARCHBTW678/twrp_samsung_a50s_beta/tags
