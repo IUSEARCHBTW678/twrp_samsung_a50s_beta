@@ -4,7 +4,7 @@ THE OFFICIAL TWRP FILES CREATED BY TEAMWIN
 
 👋🏻 WELCOME TO MY TWRP UNOFFICIAL PROJECT
 ## ✨ Features & Optimizations 
-- **High Compression:** Size is strictly controlled at exactly **48MB** (using LZMA ramdisk compression) to guarantee partition safety on Galaxy A50s (SM-A507FN).
+- **High Compression:** Size is strictly controlled at exactly **47MB** (using LZMA ramdisk compression) to guarantee partition safety on Galaxy A50s (SM-A507FN).
 - **MTP Supported:** Fixed USB init syntax. File transfer to PC works out-of-the-box.
 - **Status Bar Cleaned:** Disabled Status Bar Clock and CPU Temperature metrics to avoid system freeze/lag due to Exynos 9611 thermal nodes mismatch.
 - **TrueType Fonts Removed:** Uses the standard minimalist pixel font to save massive MBs.
