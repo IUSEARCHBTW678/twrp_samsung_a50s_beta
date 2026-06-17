@@ -1,5 +1,5 @@
 # twrp_update_samsung_a50s_beta_unofficial
-CUSTOM TWRP 3.7.1 FOR GALAXY A50S (SM-A507FN)
+CUSTOM TWRP 3.7.1 FOR GALAXY A50S (SM-A507FN) ANDROID 11
 THE OFFICIAL TWRP FILES CREATED BY TEAMWIN
 
 👋🏻 WELCOME TO MY TWRP UNOFFICIAL PROJECT
@@ -25,6 +25,9 @@ THE OFFICIAL TWRP FILES CREATED BY TEAMWIN
 
 ## ⚠️ WARNING ⚠️
 ⚠️ THE TWRP IS UNTESTED ,DON'T FLASH IN YOUR DEVICE IF YOU NOT A DEVELOPER ⚠️
+⚠️ IMPORTANT REQUIREMENT: This TWRP can ONLY be flashed from an existing stable TWRP on a device running a Custom ROM with VBMeta disabled. DO NOT flash this directly over Stock Samsung ROM via Odin! ⚠️
+
 
 ## RELEASE
 https://github.com/IUSEARCHBTW678/twrp_samsung_a50s_beta/tags
+BYE !
