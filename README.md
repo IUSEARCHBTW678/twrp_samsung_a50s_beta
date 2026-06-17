@@ -26,8 +26,9 @@ THE OFFICIAL TWRP FILES CREATED BY TEAMWIN
 ## ⚠️ WARNING ⚠️
 - THE TWRP IS UNTESTED ,**DON'T FLASH IN YOUR DEVICE IF YOU NOT A DEVELOPER**
 - IMPORTANT REQUIREMENT: This TWRP can **ONLY be flashed from an existing stable TWRP** on **a device running a Custom ROM with VBMeta disabled**. **DO NOT** flash this directly over Stock Samsung ROM via Odin! 
-- THIS TWRP RECOVERY HAS ANY ERROR (SOFT BRICK)
+- THIS TWRP RECOVERY HAVE ANY ERROR (SOFT BRICK ,BOOTLOOP ,KICK TO DOWNLOAD MODE ,...)
 
 ## RELEASE
 https://github.com/IUSEARCHBTW678/twrp_samsung_a50s_beta/tags
+
 **GOOD BYE !**
