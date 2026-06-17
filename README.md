@@ -1,5 +1,5 @@
-# TWRP Samsung Galaxy A50S BETA Unofficial For DEV
-CUSTOM TWRP 3.7.1 FOR GALAXY A50S (SM-A507FN) ANDROID 11 FOR DEV
+# TWRP Samsung Galaxy A50S Nightly Build Unofficial For DEV
+TWRP RECOVERY 3.7.1 NIGHTLY BUILD FOR GALAXY A50S (SM-A507FN) ANDROID 11 FOR DEV
 THE OFFICIAL TWRP FILES CREATED BY TEAMWIN
 
 👋🏻 WELCOME TO MY TWRP UNOFFICIAL PROJECT
@@ -24,10 +24,10 @@ THE OFFICIAL TWRP FILES CREATED BY TEAMWIN
 7. Go to **Reboot** -> **Recovery** to enjoy the new version!
 
 ## ⚠️ WARNING ⚠️
-⚠️ THE TWRP IS UNTESTED ,DON'T FLASH IN YOUR DEVICE IF YOU NOT A DEVELOPER ⚠️
-⚠️ IMPORTANT REQUIREMENT: This TWRP can ONLY be flashed from an existing stable TWRP on a device running a Custom ROM with VBMeta disabled. DO NOT flash this directly over Stock Samsung ROM via Odin! ⚠️
-
+- THE TWRP IS UNTESTED ,**DON'T FLASH IN YOUR DEVICE IF YOU NOT A DEVELOPER**
+- IMPORTANT REQUIREMENT: This TWRP can **ONLY be flashed from an existing stable TWRP** on **a device running a Custom ROM with VBMeta disabled**. **DO NOT** flash this directly over Stock Samsung ROM via Odin! 
+- THIS TWRP RECOVERY HAS ANY ERROR (SOFT BRICK)
 
 ## RELEASE
 https://github.com/IUSEARCHBTW678/twrp_samsung_a50s_beta/tags
-BYE !
+**GOOD BYE !**
